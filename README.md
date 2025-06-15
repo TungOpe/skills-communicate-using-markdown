@@ -1,16 +1,16 @@
-# Communicate using Markdown
+# My GitHub Markdown Practice
+## About Me
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-Hey TungOpe!
+```python
+def hello():
+    print("Hello, Markdown!")
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Finish this course
 
-Remember, it's self-paced so feel free to take a break! ☕️
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/TungOpe/skills-communicate-using-markdown/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
